@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="360px" height="294px" viewBox="0 0 360 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>12_1_styling_nativescript_with_angular_applications</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-styling_nativescript_core_applications">
+            <g id="-styling_nativescript_core_applications_image" transform="translate(56.000000, 66.000000)">
+                <g id="circle_bg" transform="translate(36.000000, 0.000000)">
+                    <circle id="circle_2" fill="#0C3E91" cx="88" cy="88" r="83"></circle>
+                    <rect id="rectangle" fill="#073581" transform="translate(36.016504, 60.016504) rotate(-315.000000) translate(-36.016504, -60.016504) " x="19.0342712" y="43.0342712" width="33.9644661" height="33.9644661"></rect>
+                    <rect id="rectangle" fill="#1550B1" transform="translate(67.343146, 33.343146) rotate(-315.000000) translate(-67.343146, -33.343146) " x="53.6654762" y="19.6654762" width="27.3553391" height="27.3553391"></rect>
+                    <path d="M88,175.5 C39.6750844,175.5 0.5,136.324916 0.5,88 C0.5,39.6750844 39.6750844,0.5 88,0.5 C136.324916,0.5 175.5,39.6750844 175.5,88 C175.5,136.324916 136.324916,175.5 88,175.5 Z M88,174.5 C135.772631,174.5 174.5,135.772631 174.5,88 C174.5,40.2273691 135.772631,1.5 88,1.5 C40.2273691,1.5 1.5,40.2273691 1.5,88 C1.5,135.772631 40.2273691,174.5 88,174.5 Z" id="circle_1" fill="#0B49AF" fill-rule="nonzero"></path>
+                    <rect id="rectangle" fill="#073581" transform="translate(132.167041, 121.167041) rotate(-315.000000) translate(-132.167041, -121.167041) " x="112.957042" y="101.957042" width="38.4199982" height="38.4199982"></rect>
+                    <rect id="rectangle" fill="#1550B1" transform="translate(159.708513, 95.708513) rotate(-270.000000) translate(-159.708513, -95.708513) " x="152.136451" y="88.1364509" width="15.1441246" height="15.1441246"></rect>
+                </g>
+                <g id="bg_elements">
+                    <rect id="line" fill="#1A68EB" x="113" y="126" width="41" height="1"></rect>
+                    <rect id="line" fill="#0C5BE0" x="110" y="130" width="29" height="1"></rect>
+                    <g id="logo" transform="translate(15.000000, 14.000000)">
+                        <rect id="bg" fill="#3953FF" x="0" y="0" width="39" height="39" rx="10"></rect>
+                        <path d="M32.2948708,16.3770329 L32.2948708,10.1227473 C32.275674,9.23748293 31.9646245,8.50049523 31.3618724,7.91163767 C30.7589704,7.32219403 30.0039931,7.01890088 29.0979903,7.00029304 L25.9017097,7.00029304 L25.9017097,22.6229671 L13.0982903,7 L9.90140977,7 C8.99525702,7.01875436 8.24087961,7.32204751 7.63812755,7.91149115 C7.0347756,8.50049523 6.72432605,9.23748293 6.70527914,10.1224542 L6.70527914,16.3770329 C6.68023321,17.2622973 6.36663417,17.9981128 5.76328222,18.5844796 C5.16038019,19.1701138 4.40600277,19.4753116 3.5,19.4996337 C4.40600277,19.5245418 5.16053016,19.8297397 5.76313224,20.4153739 C6.36663417,21.0017406 6.68023321,21.7375562 6.70512917,22.6228205 L6.70512917,28.8771062 C6.72432605,29.761638 7.0347756,30.4993582 7.63812755,31.0882158 C8.24102958,31.6772199 8.995407,31.9809526 9.9012598,31.9995604 L13.0982903,31.9995604 L13.0982903,16.3771795 L25.9017097,32 L29.0979903,32 C30.0039931,31.9812456 30.7591204,31.6773664 31.3618724,31.0885089 C31.9647745,30.4995048 32.275674,29.761931 32.2947209,28.8775458 L32.2947209,22.6229671 C32.3197668,21.7377027 32.6333658,21.0018872 33.2367178,20.4155204 C33.8396198,19.8298862 34.5939972,19.5246884 35.5,19.4997802 C34.5939972,19.4753116 33.8394698,19.1702603 33.2368678,18.5846261 C32.6333658,17.9981128 32.3197668,17.2622973 32.2948708,16.3770329 Z" fill="#04317C"></path>
+                    </g>
+                    <rect id="square" fill="#FA9AAE" x="34" y="58" width="20" height="20" rx="4"></rect>
+                    <rect id="line" fill="#FFCFD9" x="37" y="61" width="8" height="1"></rect>
+                    <rect id="line" fill="#FFCFD9" x="43" y="74" width="8" height="1"></rect>
+                    <g id="group" transform="translate(59.000000, 0.000000)">
+                        <rect id="square" fill="#3BE5B2" x="0" y="0" width="30" height="30" rx="7"></rect>
+                        <path d="M26.5,15.0887204 L27.5,15.0887204 L27.5,20 C27.5,24.1421356 24.1421356,27.5 20,27.5 L15.0352767,27.5 L15.0352767,26.5 L20,26.5 C23.5898509,26.5 26.5,23.5898509 26.5,20 L26.5,15.0887204 Z M3.5,15.0887204 L2.5,15.0887204 L2.5,10 C2.5,5.85786438 5.85786438,2.5 10,2.5 L14.9891806,2.5 L14.9891806,3.5 L10,3.5 C6.41014913,3.5 3.5,6.41014913 3.5,10 L3.5,15.0887204 Z" id="lines" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                    <rect id="square" fill="#65A0FF" x="21" y="62" width="8" height="8"></rect>
+                    <rect id="square" fill="#0959DD" x="59" y="34" width="11" height="11"></rect>
+                    <rect id="square" fill="#C336F3" x="68" y="58" width="11" height="11"></rect>
+                    <path d="M93.5,11.5 L93.5,24.5 L106.5,24.5 L106.5,11.5 L93.5,11.5 Z M107.5,10.5 L107.5,25.5 L92.5,25.5 L92.5,10.5 L107.5,10.5 Z" id="square" fill="#7AADFF" fill-rule="nonzero"></path>
+                    <rect id="square" fill="#FFDD97" x="59" y="48" width="7" height="7"></rect>
+                    <g id="group" transform="translate(178.000000, 148.000000)">
+                        <rect id="square" fill="#FCD58A" x="0" y="0" width="30" height="30" rx="7"></rect>
+                        <path d="M26.5,15.0887204 L27.5,15.0887204 L27.5,20 C27.5,24.1421356 24.1421356,27.5 20,27.5 L15.0352767,27.5 L15.0352767,26.5 L20,26.5 C23.5898509,26.5 26.5,23.5898509 26.5,20 L26.5,15.0887204 Z M3.5,15.0887204 L2.5,15.0887204 L2.5,10 C2.5,5.85786438 5.85786438,2.5 10,2.5 L14.9891806,2.5 L14.9891806,3.5 L10,3.5 C6.41014913,3.5 3.5,6.41014913 3.5,10 L3.5,15.0887204 Z" id="lines" fill="#FFFFFF" fill-rule="nonzero" transform="translate(15.000000, 15.000000) scale(-1, 1) translate(-15.000000, -15.000000) "></path>
+                    </g>
+                    <rect id="square" fill="#28CAFB" x="197" y="133" width="11" height="11"></rect>
+                    <path d="M213.5,153.5 L213.5,164.5 L224.5,164.5 L224.5,153.5 L213.5,153.5 Z M225.5,152.5 L225.5,165.5 L212.5,165.5 L212.5,152.5 L225.5,152.5 Z" id="square" fill="#3278EB" fill-rule="nonzero"></path>
+                    <g id="group" transform="translate(152.000000, 134.000000)">
+                        <rect id="square" fill="#35C9F5" x="0" y="0" width="22" height="22"></rect>
+                        <text id="CSS" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="2" y="15">CSS</tspan>
+                        </text>
+                    </g>
+                    <rect id="square" fill="#1BC08F" x="164" y="160" width="7" height="7"></rect>
+                    <rect id="square" fill="#6176FF" x="185" y="137" width="7" height="7"></rect>
+                    <rect id="square" fill="#6176FF" x="59" y="67" width="7" height="7"></rect>
+                    <path d="M1.5,21.5 L1.5,28.5 L8.5,28.5 L8.5,21.5 L1.5,21.5 Z M9.5,20.5 L9.5,29.5 L0.5,29.5 L0.5,20.5 L9.5,20.5 Z" id="square" fill="#3278EB" fill-rule="nonzero"></path>
+                </g>
+                <g id="animation" transform="translate(78.000000, 35.000000)">
+                    <path d="M1.5,1.5 L1.5,17 L0.5,17 L0.5,0.5 L17,0.5 L17,1.5 L1.5,1.5 Z M120,91 L120,75.5 L121,75.5 L121,92 L104.5,92 L104.5,91 L120,91 Z M120,1.5 L104.5,1.5 L104.5,0.5 L121,0.5 L121,17 L120,17 L120,1.5 Z" id="frame" fill="#98BEFF" fill-rule="nonzero"></path>
+                    <path d="M6,6 L6,87 L116,87 L116,6 L6,6 Z M5,5 L117,5 L117,88 L5,88 L5,5 Z" id="bg_1" fill="#3278EB" fill-rule="nonzero"></path>
+                    <rect id="bg_2" fill="#FFDD97" x="10" y="10" width="102" height="73"></rect>
+                    <path d="M10,10 C14.0206388,10.0003256 21.0198454,10.0024262 30.9976196,10.0063019 C46.7433818,10.0063019 50.5832921,9.19859402 68.1959027,27.1991739 C79.9376432,39.1995605 94.5390089,40.043191 112,29.7300652 L112,83 L10,83 L10,10 Z" id="wave_1" fill="#F1B1BA"></path>
+                    <path d="M10,10 L21.2079716,10 C29.7466467,11.8500505 38.6799869,22.910724 48.0079921,43.1820203 C62,73.5889647 101.449936,69.0714985 112,55.1694349 C112,64.4921258 112,73.7689808 112,83 L10,83 L10,10 Z" id="wave_2" fill="#EC6EEC"></path>
+                    <path d="M16,14 L30,14 L30,17 L16,17 L16,14 Z M35,14 L49,14 L49,17 L35,17 L35,14 Z M54,14 L68,14 L68,17 L54,17 L54,14 Z M73,14 L87,14 L87,17 L73,17 L73,14 Z M92,14 L106,14 L106,17 L92,17 L92,14 Z" id="lines" fill="#FFFFFF"></path>
+                    <rect id="line" fill="#F6D1D6" x="16" y="20" width="43" height="1"></rect>
+                    <rect id="line" fill="#FFB2FF" x="63" y="72" width="43" height="1"></rect>
+                    <path d="M16,76 L30,76 L30,79 L16,79 L16,76 Z M35,76 L49,76 L49,79 L35,79 L35,76 Z M54,76 L68,76 L68,79 L54,79 L54,76 Z M73,76 L87,76 L87,79 L73,79 L73,76 Z M92,76 L106,76 L106,79 L92,79 L92,76 Z" id="lines" fill="#FFFFFF"></path>
+                    <g id="play_btn" transform="translate(41.000000, 27.000000)">
+                        <circle id="Oval" fill="#0959DD" cx="20" cy="20" r="17"></circle>
+                        <path d="M20,35.5 C11.4395864,35.5 4.5,28.5604136 4.5,20 C4.5,11.4395864 11.4395864,4.5 20,4.5 C28.5604136,4.5 35.5,11.4395864 35.5,20 C35.5,28.5604136 28.5604136,35.5 20,35.5 Z M20,34.5 C28.0081289,34.5 34.5,28.0081289 34.5,20 C34.5,11.9918711 28.0081289,5.5 20,5.5 C11.9918711,5.5 5.5,11.9918711 5.5,20 C5.5,28.0081289 11.9918711,34.5 20,34.5 Z" id="Oval" fill="#68A1FF" fill-rule="nonzero"></path>
+                        <path d="M-0.0467481751,24.4122142 L0.930006321,24.1978532 C2.54642984,31.5632259 8.32408309,37.3753777 15.6776548,39.0374131 L15.4571981,40.0128099 C7.72531338,38.2652692 1.65284084,32.1565377 -0.0467481751,24.4122142 Z M40.0295421,15.4884746 L39.053713,15.7070099 C37.4536338,8.56215077 31.9297172,2.88081728 24.8415083,1.07288129 L25.088658,0.103903986 C32.5414058,2.00482014 38.3471355,7.97599766 40.0295421,15.4884746 Z" id="Oval" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M27.2864054,22.0709966 L18.0599979,27.8375013 C17.1233248,28.422922 15.8894241,28.1381757 15.3040034,27.2015026 C15.1053389,26.8836394 15,26.5163442 15,26.1415047 L15,14.6084953 C15,13.5039258 15.8954305,12.6084953 17,12.6084953 C17.3748394,12.6084953 17.7421347,12.7138342 18.0599979,12.9124987 L27.2864054,18.6790034 C28.2230785,19.2644241 28.5078248,20.4983248 27.9224042,21.4349979 C27.7614427,21.6925361 27.5439437,21.9100352 27.2864054,22.0709966 Z" id="Triangle" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+                <g id="catalog" transform="translate(84.265570, 120.026161) rotate(-21.000000) translate(-84.265570, -120.026161) translate(52.765570, 88.526161)">
+                    <g id="card" transform="translate(23.000000, 15.000000)">
+                        <rect id="bg_2" fill="#649EFF" transform="translate(19.821144, 20.190212) rotate(-300.000000) translate(-19.821144, -20.190212) " x="5.13811397" y="7.4139326" width="29.3660597" height="25.5525589"></rect>
+                        <rect id="bg_1" fill="#FFFFFF" transform="translate(19.363612, 19.665673) rotate(-300.000000) translate(-19.363612, -19.665673) " x="5.36361208" y="5.38940363" width="28" height="28.5525391"></rect>
+                        <rect id="Rectangle" fill="#6CA3FF" transform="translate(10.332523, 24.879775) rotate(-300.000000) translate(-10.332523, -24.879775) " x="-3.66747683" y="21.0317085" width="28" height="7.6961326"></rect>
+                        <rect id="Rectangle" fill="#3C81F4" transform="translate(18.988603, 19.882184) rotate(-300.000000) translate(-18.988603, -19.882184) " x="4.9886035" y="15.967121" width="28" height="7.83012702"></rect>
+                        <rect id="Rectangle" fill="#064DC3" transform="translate(27.903667, 14.735070) rotate(-300.000000) translate(-27.903667, -14.735070) " x="13.903667" y="10.3200066" width="28" height="8.83012702"></rect>
+                        <polygon id="line" fill="#448AFF" fill-rule="nonzero" points="32.0112603 18.4814537 32.8803229 17.9867516 36.2696519 23.9409194 31.5413588 26.6502446 31.0441905 25.7825905 34.9072902 23.5690236"></polygon>
+                    </g>
+                    <g id="card" transform="translate(14.000000, 6.000000)">
+                        <rect id="bg_2" fill="#BDD6FF" transform="translate(23.916101, 24.075772) rotate(-324.000000) translate(-23.916101, -24.075772) " x="9.11572279" y="7.57008289" width="29.6007555" height="33.0113786"></rect>
+                        <rect id="bg_1" fill="#FFFFFF" transform="translate(22.708821, 24.375765) rotate(-324.000000) translate(-22.708821, -24.375765) " x="8.70882142" y="5.52095338" width="28" height="37.7096241"></rect>
+                        <rect id="Rectangle" fill="#8BB7FF" transform="translate(19.271210, 29.107232) rotate(-324.000000) translate(-19.271210, -29.107232) " x="5.27120991" y="24.9894859" width="28" height="8.23549171"></rect>
+                        <rect id="Rectangle" fill="#5696FF" transform="translate(25.213403, 20.928504) rotate(-324.000000) translate(-25.213403, -20.928504) " x="11.2134034" y="16.5548206" width="28" height="8.74736699"></rect>
+                        <rect id="Rectangle" fill="#2673F0" transform="translate(31.263324, 12.601502) rotate(-324.000000) translate(-31.263324, -12.601502) " x="17.2633242" y="8.30047983" width="28" height="8.60204522"></rect>
+                        <polygon id="line" fill="#74A9FF" fill-rule="nonzero" points="35.219481 13.8004176 35.8111409 12.9942299 42.2022007 17.6846189 39.0935574 21.9467969 38.2856226 21.3575251 40.8067351 17.9008948"></polygon>
+                    </g>
+                    <g id="card" transform="translate(9.000000, 2.000000)">
+                        <rect id="bg_2" fill="#F1CAFF" transform="translate(21.393137, 25.875111) rotate(-345.000000) translate(-21.393137, -25.875111) " x="6.49313736" y="5.26249941" width="29.7999992" height="41.2252235"></rect>
+                        <rect id="bg_1" fill="#FFFFFF" transform="translate(20.389886, 26.123430) rotate(-345.000000) translate(-20.389886, -26.123430) " x="6.38988597" y="3.06901084" width="28" height="46.1088393"></rect>
+                        <rect id="Rectangle" fill="#E496FF" transform="translate(18.961613, 31.453816) rotate(-345.000000) translate(-18.961613, -31.453816) " x="4.96161348" y="26.3653678" width="28" height="10.1768964"></rect>
+                        <rect id="Rectangle" fill="#D969FF" transform="translate(22.062094, 19.882664) rotate(-345.000000) translate(-22.062094, -19.882664) " x="8.06209443" y="14.6648059" width="28" height="10.4357154"></rect>
+                        <rect id="Rectangle" fill="#C336F3" transform="translate(25.134692, 8.415573) rotate(-345.000000) translate(-25.134692, -8.415573) " x="11.1346921" y="3.69367642" width="28" height="9.44379294"></rect>
+                        <polygon id="line" fill="#E8A5FF" fill-rule="nonzero" points="25.1583656 6.53400043 25.413483 5.56709035 37.4377784 8.73967823 36.0535585 14.0661525 35.0857066 13.8146315 36.219339 9.45241759"></polygon>
+                    </g>
+                    <g id="card" transform="translate(20.226045, 29.283612) rotate(-8.000000) translate(-20.226045, -29.283612) translate(5.226045, 2.283612)">
+                        <rect id="bg_2" fill="#FF9FB3" x="9.09494702e-13" y="2" width="30" height="50"></rect>
+                        <rect id="bg_1" fill="#FFFFFF" x="0" y="-1.8189894e-12" width="28" height="54"></rect>
+                        <path d="M22.5,51.5 C20.8431458,51.5 19.5,50.1568542 19.5,48.5 C19.5,46.8431458 20.8431458,45.5 22.5,45.5 C24.1568542,45.5 25.5,46.8431458 25.5,48.5 C25.5,50.1568542 24.1568542,51.5 22.5,51.5 Z M22.5,50.5 C23.6045695,50.5 24.5,49.6045695 24.5,48.5 C24.5,47.3954305 23.6045695,46.5 22.5,46.5 C21.3954305,46.5 20.5,47.3954305 20.5,48.5 C20.5,49.6045695 21.3954305,50.5 22.5,50.5 Z" id="oval" fill="#FFCE6F" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#E63D60" x="0" y="-1.8189894e-12" width="28" height="11"></rect>
+                        <rect id="Rectangle" fill="#F65879" x="9.09494702e-13" y="13" width="28" height="11"></rect>
+                        <rect id="Rectangle" fill="#FF7491" x="1.8189894e-12" y="26" width="28" height="11"></rect>
+                        <polygon id="line" fill="#FF829C" fill-rule="nonzero" points="1.74639378 1.72245267 2.74637488 1.72860043 2.69810102 9.58072029 1.69811992 9.57457253"></polygon>
+                        <polygon id="line" fill="#FF92A9" fill-rule="nonzero" points="1.57435255 14.9832867 2.57435129 14.9817 2.58635165 22.5450236 1.58635291 22.5466103"></polygon>
+                        <polygon id="line" fill="#FFB5C4" fill-rule="nonzero" points="1.47384747 27.9369035 2.47384479 27.9345888 2.49115559 35.4129814 1.49115827 35.4152962"></polygon>
+                    </g>
+                    <polygon id="line" fill="#5897FF" fill-rule="nonzero" transform="translate(10.621281, 42.654923) rotate(-8.000000) translate(-10.621281, -42.654923) " points="4.15761822 60.2320927 18.0849435 60.2320927 18.0849435 61.2320927 3.15761822 61.2320927 3.15761822 24.0777526 4.15761822 24.0777526"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

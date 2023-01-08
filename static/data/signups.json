@@ -1,0 +1,690 @@
+[
+  {
+    "studentName": "Patrick Logan",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "adam aljomaily",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Jaed Hasan",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Brian Juarez",
+    "courseName": "Securing NativeScript Applications"
+  },
+  {
+    "studentName": "james liu",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Luis Flores",
+    "courseName": "NativeScript Plugins: Creating Custom View Components"
+  },
+  {
+    "studentName": "Matthew Adacomb",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Naji Makhoul",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Nikoli Topalovic",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "HARUN TABAN",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "Dimo Samual",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "kubilay turgut",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "ritik shivhare",
+    "courseName": "NativeScript-Vue Introduction"
+  },
+  {
+    "studentName": "Eman Kready",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Bryan Wilson",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "German Yesid Rubiano Romero",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Jimmy Arellano",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Lindsey P Andralouis",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "KhangPham",
+    "courseName": "NativeScript Core Pro"
+  },
+  {
+    "studentName": "Alberto del Rio",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "andrew",
+    "courseName": "NativeScript-Vue Introduction"
+  },
+  {
+    "studentName": "Tamer El Morsi",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ruben Quiterio",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Ben",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Israel Moreira",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "MD SALIM",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "puneet",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Remigijus Vainoris",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Dick van Viegen",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Rui Liu",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Steve Johnson",
+    "courseName": "NativeScript-Vue Introduction"
+  },
+  {
+    "studentName": "Martin Taichman",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Hakan",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Jose Ferret",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Sergi Tur",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Nick",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Mahesh Kuruba",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Fernando Lopez",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Samuel Matis",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Carlos Chavez",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Nwokocha Emmanuel",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Robby Malunga Jr",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "Filinga",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Pavel Shastovich",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Abhiram Samantara",
+    "courseName": "Securing NativeScript Applications"
+  },
+  {
+    "studentName": "Deepak Prabhudayal Pande",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Nithin Jadhav",
+    "courseName": "NativeScript Core Pro"
+  },
+  {
+    "studentName": "Guillermo Hernan De Souza",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Andre",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Ryan Marco",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Mike",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Javier Torralba",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Rafik R Hakim",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Angelos Ap",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "vijay kumar chauhan",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Alexander Utylin",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Nithin",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "essoham",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Hien Huynh",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "John Arheghan",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Jegors ƒåemisov",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Mark Edosa",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Jim Inga",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Alejandro",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Lodewijk Kalden",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Mark Shouse",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Ram Madichetti",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Sudipto Seno",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Joel Mughanga",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Marko Ugboma",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Kleido",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Vinor Haripertam",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Cho Hmone",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Laurentiu",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Lycah Gallogo",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Octavi Rodrigo",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Steven Novak",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "sasikumar yalamaddi",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Murad Ali",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Johan Ljungdahl",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Maite Polydoro",
+    "courseName": "NativeScript Core Pro"
+  },
+  {
+    "studentName": "Alan Johns",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "John Muski",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Sliz Lovosa",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "William dames",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Hugo Denommer",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "saeed b",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "Tim Broil",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ramazan Ayuz",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Mark Langosti",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "harryhahn",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Rak Herizoi",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Robert Valescu",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Pas Scotman",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Software Sri",
+    "courseName": "NativeScript Core Pro"
+  },
+  {
+    "studentName": "Chaz Scott",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Tobias Krabler",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Alan Rosenberg",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Solomon Geta",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Muhammad Adil",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "SOLTANAGHA HUSEYNOV",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Shannon B",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Opemipo Disu",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Zhixin Lu",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Mohamed Taye",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Alexandre Leroo",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Barry Batzak",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Harry Smith",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Stephen Alanyi",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Nguy·ªÖn VƒÉn Gi√°p",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Roy Sandipan",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Juan Cabral",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Deepali",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "jainendra Rai",
+    "courseName": "NativeScript Vue Pro"
+  },
+  {
+    "studentName": "Fabrice Loche",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Kristina Raste",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "NM Peters",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Daniel Marina",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Luca Oliveira",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Mashar",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Maximiliano Pom",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Sebatin Atunay",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Sohil Roy",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Louis Philippe",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Bit Studio",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Okehukwu Mba",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Haron LABID",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Jean Claude",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "sanjay patni",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Patrik Kurze",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "sesgin oscan",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "cuong viet nguyen",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Tiago Marquez",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Aravinda",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Daniel Matting",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Raul Gracia",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "imtiaz hussain",
+    "courseName": "NativeScript Plugins: Creating Custom View Components"
+  },
+  {
+    "studentName": "Chris Ritterhouse",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Abdul Rehman",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "amit chaudhary",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Talal Malik",
+    "courseName": "NativeScript with Angular Pro"
+  },
+  {
+    "studentName": "Adrian Asaba",
+    "courseName": "Securing NativeScript Applications"
+  },
+  {
+    "studentName": "Simon Sladis",
+    "courseName": "NativeScript Hands-On UI"
+  },
+  {
+    "studentName": "Sam Windmill",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Stijn Vanopline",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Vijay Menon",
+    "courseName": "NativeScript Core Pro"
+  },
+  {
+    "studentName": "Hamond Cohan",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Habib bellia",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Omar Beldar",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Amiles Fortis",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "kahshiu",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ngoy Castro",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Matias Sal",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Rafael Pragosa",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Akinirani Oke",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ron Ruiz",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Wary Beker",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "micodesto",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Rajesh K CHEKURI",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ramohan Holagundi",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Nickolai Koroliov",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Len Ocho",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Jai Jeong",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Paul Afonso",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ede Anjos",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Timothy Bruin",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Ahmed Ahmed",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Mike Lesteri",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Harvy Sobota",
+    "courseName": "NativeScript with Angular Getting Started Guide"
+  },
+  {
+    "studentName": "Nichola Wilthouse",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Aditya Raj",
+    "courseName": "NativeScript Core Getting Started Guide"
+  },
+  {
+    "studentName": "Sivaprasad Chidambaram",
+    "courseName": "NativeScript Hands-On UI"
+  }
+]

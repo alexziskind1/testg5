@@ -11,6 +11,7 @@ import { Post } from '../../../domain/models/posts/post.model';
 
 import { GridRow } from '../../../layouts/grid2/grid-row';
 import { GridColumn } from '../../../layouts/grid2/grid-column';
+import { getAuthorImgSrc } from '../../../utils/urls';
 
 
 interface PostEntryProps {
@@ -47,7 +48,7 @@ export const PostEntry = (
     );
   }
 
-  const authorImgSrc = 'https://thispersondoesnotexist.com/';
+  const authorImgSrc = getAuthorImgSrc(post.author.picture, 100);
 
   const twitterFollowScript = `<script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>`;
 
