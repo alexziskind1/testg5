@@ -1,0 +1,58 @@
+[
+  {
+    "coursePreviews": [
+      {
+        "courseId": "171131",
+        "videoId": "qfm8mlog0y"
+      },
+      {
+        "courseId": "684644",
+        "videoId": "2vb4t6gqkg"
+      },
+      {
+        "courseId": "169856",
+        "videoId": "bj8iu5oumm"
+      },
+      {
+        "courseId": "171132",
+        "videoId": "bz2u4l8oh9"
+      },
+      {
+        "courseId": "418792",
+        "videoId": "f91011dyjd"
+      },
+      {
+        "courseId": "171150",
+        "videoId": "0dbcbx9co5"
+      },
+      {
+        "courseId": "328975",
+        "videoId": "mbdukz1zgp"
+      },
+      {
+        "courseId": "362074",
+        "videoId": "x6ad494hz6"
+      },
+      {
+        "courseId": "329255",
+        "videoId": "uuzb7qbn2j"
+      },
+      {
+        "courseId": "1152797",
+        "videoId": "c83ukhw0dw"
+      }
+    ],
+    "chapterPreviews": [
+      {
+        "chapterId": 10,
+        "videoId": "7"
+      }
+    ],
+    "lessonPreviews": [
+      {
+        "lessonId": "6410378",
+        "videoId": "hello-there"
+      }
+    ]
+  }
+]

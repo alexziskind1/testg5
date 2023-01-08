@@ -1,0 +1,234 @@
+.posts-container {
+  background-image: url(/img/logo_2.svg);
+  background-position-x: 80%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-attachment: initial;
+  padding-bottom: 100px;
+}
+
+.posts-container h1 {
+  font-family: MonoRegular;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 50px;
+  color: #12ffcd;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.posts-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.posts-list li {
+  flex-basis: 1;
+  flex-grow: 1;
+  width: 400px;
+  margin: 0px 15px 50px 15px;
+}
+
+.post-list-entry-container {
+  background: #0949b2;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0;
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.post-list-entry-container:hover {
+  transition-duration: 300ms;
+  transform: scale(1.01);
+}
+
+.post-list-entry-container:hover .post-img-container {
+  transition-duration: 300ms;
+  transform: scale(1.03);
+}
+
+.post-list-entry-container:hover h2 {
+  transition-duration: 300ms;
+  color: #ffffff;
+}
+
+.post-img-container {
+  background-position: 50% 50% !important;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.post-img-container a {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.post-body-wrapper {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 200px;
+}
+
+.post-body-wrapper h2 {
+  font-family: MonoBold;
+  font-size: 20px;
+  line-height: 26px;
+  color: #12ffcd;
+  margin: 0 0 10px 0;
+  transition: all 0.3s ease;
+}
+
+.post-nav-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@keyframes zoomout {
+  from {
+    transform: scale(1.05, 1.05);
+  }
+  to {
+    transform: scale(1, 1);
+  }
+}
+
+@keyframes zoomin {
+  from {
+    transform: scale(1, 1);
+  }
+  to {
+    transform: scale(1.05, 1.05);
+  }
+}
+
+.post-body-wrapper p {
+  font-family: OpenSansLight;
+  font-size: 13px;
+  line-height: 19px;
+  color: #fefefe;
+  margin: 0;
+}
+
+.post-meta-container {
+  font-family: OpenSansRegular;
+  font-size: 13px;
+  line-height: 19px;
+  display: flex;
+  margin-top: 10px;
+}
+
+.post-meta-author-img-wrapper {
+  margin-right: 10px;
+}
+.post-meta-author-img-wrapper img {
+  height: 44px;
+  border-radius: 22px;
+}
+
+.post-meta-info-wrapper {
+}
+.post-meta-author-name {
+  color: #12ffcd;
+  font-size: 13px;
+  line-height: 19px;
+}
+.post-meta-date-time-wrapper {
+  font-family: OpenSansLight;
+  font-size: 12px;
+  line-height: 16px;
+  color: #11f5ff;
+}
+.post-meta-date-time-wrapper span {
+  margin-right: 6px;
+}
+.middot-divider:after {
+  content: '\00B7';
+}
+
+@media only screen and (max-width: 1040px) {
+  .posts-list li {
+    margin: 0px 15px 50px 15px;
+  }
+  .post-img-container {
+    height: 160px;
+  }
+  .post-body-wrapper {
+    height: 240px;
+  }
+  .post-body-wrapper h2 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+
+@media only screen and (max-width: 724px) {
+  .posts-container h1 {
+    font-family: MonoRegular;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+  }
+  .post-img-container {
+    height: 160px;
+  }
+  .post-body-wrapper {
+    height: 240px;
+  }
+  .post-body-wrapper h2 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+
+.vid-clip-sm {
+  width: 363px;
+  height: 204px;
+  position: relative;
+  margin: 0 8px 8px 0;
+  cursor: pointer;
+}
+
+.vid-clip-sm .vid-clip-play {
+  width: 363px;
+  height: 204px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transition-property: background-color;
+  -moz-transition-property: background-color;
+  -o-transition-property: background-color;
+  transition-property: background-color;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.vid-clip-sm .vid-clip-play:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#66000000', endColorstr='#66000000'); /* IE */
+}
+
+.vid-clip-sm .vid-clip-play img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -22px 0 0 -22px;
+  width: 44px;
+}

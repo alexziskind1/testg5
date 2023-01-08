@@ -1,0 +1,61 @@
+.course-details-container h2 {
+  font-family: OpenSansLight;
+}
+
+/*
+.course-details-top-bar {
+    display: flex;
+    height: 40px;
+    margin: 20px 0 0 0;
+}
+*/
+
+.course-details-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  /*margin-top: -100px;*/ /*this is to offset the banner's added padding-bottom so that the background logo image can be shown fully*/
+}
+
+.course-details-pane:nth-child(1) {
+  flex: 2;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  margin-right: 0;
+}
+
+.course-details-pane:nth-child(2) {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  margin-left: 0;
+  width: 360px;
+}
+
+.course-description-wrapper {
+  font-family: OpenSansLight;
+  width: 80%;
+}
+
+.course-description-wrapper p {
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 760px) {
+  .course-details-pane:nth-child(1),
+  .course-details-pane:nth-child(2) {
+    width: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 40px 0;
+  }
+  .course-description-wrapper {
+    width: 100%;
+  }
+
+  .tc-more3 {
+    display: none;
+  }
+}

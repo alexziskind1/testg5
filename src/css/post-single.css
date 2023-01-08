@@ -1,0 +1,126 @@
+.post-entry-container h1 {
+  font-family: MonoRegular;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 50px;
+  color: #12ffcd;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.post-inner {
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.post-inner p {
+  margin-bottom: 40px;
+}
+
+.post-inner h2 {
+  margin-top: 60px;
+}
+
+.post-inner blockquote {
+  background: rgba(60,187,176,.2);
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.gatsby-highlight {
+  margin-bottom: 40px;
+}
+
+.post-entry-container .post-meta-author-img-wrapper img {
+  height: 60px;
+  border-radius: 30px;
+}
+
+.post-meta-author-title {
+  color: #11f5ff;
+}
+
+.post-excerpt {
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.post-body {
+  background-color: azure;
+  font-family: Charter-Roman, Georgia, Cambria, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 30px;
+  color: rgba(38, 41, 58, 0.8);
+  padding: 30px 30px 60px 30px;
+}
+
+.post-comments-wrapper {
+  margin-top: 50px;
+}
+
+hr.section-divider {
+  display: block;
+  border: 0;
+  text-align: center;
+  overflow: visible;
+  margin-top: 52px;
+  margin-bottom: 42px;
+}
+
+hr.section-divider:before {
+  content: '...';
+  display: inline-block;
+  margin-left: 0.6em;
+  color: rgba(0, 0, 0, 0.68);
+  position: relative;
+  top: -30px;
+  font-family: Charter-Roman, Georgia, Cambria, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 30px;
+  letter-spacing: 0.6em;
+  color: rgba(38, 41, 58, 0.8);
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.twitter-follow-button {
+  margin-left: 10px;
+  color: #12ffcd;
+  border: 1px solid #12ffcd;
+  padding: 0 5px 0 5px;
+}
+
+@media only screen and (max-width: 724px) {
+  .post-entry-container h1 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .post-excerpt {
+    font-size: 18px;
+  }
+  .post-body {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 10px;
+  }
+}

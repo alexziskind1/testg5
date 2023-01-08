@@ -5,12 +5,18 @@
     "lib": ["dom", "esnext"],
     "jsx": "react",
  
-    "module": "esnext",
+    "module": "commonjs",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,                                 
     "skipLibCheck": true
   },
-  "include": ["./src/**/*", "./gatsby-node.ts", "./gatsby-config.ts", "./plugins/**/*"]
+  "include": [
+    "./src/**/*", 
+    "./gatsby-node.ts", 
+    "gatsby-config.bak", 
+    "./plugins/**/*",  
+    "./src/gatsby-types.d.ts",
+  ]
 }

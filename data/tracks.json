@@ -1,0 +1,107 @@
+[
+  {
+    "trackId": "angular",
+    "title": "NativeScript Angular",
+    "imageSrc": "/img/nativescript_angular.svg",
+    "description": "NativeScript with Angular is a framework that enables a web developer to build native mobile applications using TypeScript, CSS, and the Angular UI Framework. This learning track includes NativeScript with Angular video courses for both the new programmer looking to get started and the advanced developer wanting to solidify and enhance their NativeScript skills.",
+    "bundles": [
+      {
+        "bundleId": "684386",
+        "order": 10,
+        "description": "NativeScript with Angular Master Bundle"
+      },
+      {
+        "bundleId": "685039",
+        "order": 5,
+        "description": "NativeScript with Angular Essential Bundle"
+      }
+    ],
+    "levels": [
+      {
+        "levelId": 1,
+        "title": "beginner",
+        "description": "If you are new to NativeScript, look no further. These beginning courses will give you a good foundation in both programming and NativeScript with Angular."
+      },
+      {
+        "levelId": 2,
+        "title": "intermediate",
+        "description": "The courses in this section build off of the foundation set in the beginner area and dive deeper into specialized concepts like security, plugins, and state management."
+      },
+      {
+        "levelId": 3,
+        "title": "advanced",
+        "description": "These courses are designed to take your existing NativeScript with Angular knowledge and teach you how to leverage patterns and practices to take your NativeScript skills to the next level."
+      }
+    ]
+  },
+  {
+    "trackId": "core",
+    "title": "NativeScript Core",
+    "imageSrc": "/img/nativescript_core.svg",
+    "description": "NativeScript Core is the base framework tha enables a web developer to build native mobile applications using JavaScript, TypeScript, and CSS. This learning track includes NativeScript Core video courses for both the new programmer looking to get started and the advanced developer wanting to solidify and enhance their NativeScript skills.",
+    "bundles": [
+      {
+        "bundleId": "684512",
+        "order": 5,
+        "description": "NativeScript Core Master Bundle"
+      },
+      {
+        "bundleId": "685042",
+        "order": 10,
+        "description": "NativeScript Core Essential Bundle"
+      }
+    ],
+    "levels": [
+      {
+        "levelId": 1,
+        "title": "beginner",
+        "description": "If you are new to NativeScript, look no further. These beginning courses will give you a good foundation in both programming and NativeScript Core."
+      },
+      {
+        "levelId": 2,
+        "title": "intermediate",
+        "description": "The courses in this section build off of the foundation set in the beginner area and dive deeper into specialized concepts like security, plugins, and app styling."
+      },
+      {
+        "levelId": 3,
+        "title": "advanced",
+        "description": "These courses are designed to take your existing NativeScript Core knowledge and teach you how to leverage patterns and practices to take your NativeScript skills to the next level."
+      }
+    ]
+  },
+  {
+    "trackId": "vue",
+    "title": "NativeScript Vue",
+    "imageSrc": "/img/nativescript_vue.svg",
+    "description": "NativeScript Vue is a framework that enables a web developer to build native mobile applications using JavaScript, CSS, and the VueJS UI Framework. This learning track includes NativeScript Vue video courses for both the new programmer looking to get started and the advanced developer wanting to solidify and enhance their NativeScript skills.",
+    "bundles": [
+      {
+        "bundleId": "684643",
+        "order": 10,
+        "description": "NativeScript Vue Master Bundle"
+      },
+      {
+        "bundleId": "685044",
+        "order": 5,
+        "title": "NativeScript Vue Essential Bundle"
+      }
+    ],
+    "levels": [
+      {
+        "levelId": 1,
+        "title": "beginner",
+        "description": "If you are new to NativeScript, look no further. These beginning courses will give you a good foundation in both programming and NativeScript Vue."
+      },
+      {
+        "levelId": 2,
+        "title": "intermediate",
+        "description": "The courses in this section build off of the foundation set in the beginner area and dive deeper into specialized concepts like security and state management."
+      },
+      {
+        "levelId": 3,
+        "title": "advanced",
+        "description": "These courses are designed to take your existing NativeScript Vue knowledge and teach you how to leverage patterns and practices to take your NativeScript skills to the next level."
+      }
+    ]
+  }
+]

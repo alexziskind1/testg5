@@ -1,0 +1,17 @@
+.action-btn-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.action-btn-container
+.action-btn-wrapper {
+    display: inline-block;
+}
+
+
+@media (max-width: 480px) {
+    .action-btn-container
+    .action-btn-wrapper {
+        width: 70%;
+    }
+  }

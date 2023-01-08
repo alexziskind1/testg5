@@ -1,0 +1,254 @@
+[
+  {
+    "testimonialId": "100",
+    "name": "Raymond Camden",
+    "img": "raymond_camden",
+    "twitter": "raymondcamden",
+    "order": 100,
+    "quoteHtml": "The courses on NativeScripting are easy to follow, paced well, and do a great job of getting you up to speed with NativeScript.",
+    "titleHtml": "DevRel for Auth0 Extend"
+  },
+  {
+    "testimonialId": "200",
+    "name": "Tracy Lee | ladyleet",
+    "img": "tracy_lee",
+    "twitter": "ladyleet",
+    "order": 200,
+    "quoteHtml": "NativeScripting provides really high quality focused content around learning NativeScript! I love using the platform to refresh my skills and hone in on specific challenge areas to fill in my gaps of knowledge.",
+    "titleHtml": "RxJS Core Team member and Google Developer Expert"
+  },
+  {
+    "testimonialId": "300",
+    "name": "TJ VanToll",
+    "img": "tj_vantoll",
+    "twitter": "tjvantoll",
+    "order": 300,
+    "quoteHtml": "The best NativeScript video content out there. NativeScripting’s courses are an amazing resource for getting started with NativeScript. Highly recommended.",
+    "titleHtml": "Principal Developer Advocate @ProgressSW"
+  },
+  {
+    "testimonialId": "400",
+    "name": "Nic Raboy",
+    "img": "nic_raboy",
+    "twitter": "nraboy",
+    "order": 400,
+    "quoteHtml": "NativeScripting is a great resource with top notch material on NativeScript and mobile application development with frameworks such as Angular and Vue. I highly recommend it for any developer, beginner to expert.",
+    "titleHtml": "The Polyglot Developer"
+  },
+  {
+    "testimonialId": "500",
+    "name": "Todd Motto",
+    "img": "todd_motto",
+    "twitter": "toddmotto",
+    "order": 500,
+    "quoteHtml": "As a previous Developer Advocate for Progress/Telerik, who makes NativeScript, I've no hesitation in saying that NativeScripting.com is the only place you need to learn NativeScript, from the masterful Alex. His teaching style is absolutely on point; comprehensive and concise enough to have you building real mobile applications, whilst giving you fundamental and advanced knowledge necessary to survive in the wild.",
+    "titleHtml": "Creator @ UltimateAngular and Google Developer Expert for Angular"
+  },
+  {
+    "testimonialId": "600",
+    "name": "Jen Looper",
+    "img": "jen_looper",
+    "twitter": "jenlooper",
+    "order": 100,
+    "quoteHtml": "Alex, affectionately known as the Voice of NativeScript, produces high quality video content that effectively teaches the ins and outs of NativeScript, walking students through the complexities of building mobile apps. These videos teach both NativeScript with Angular and NativeScript Core, offering two great ways to build beautiful apps.",
+    "titleHtml": "Lead Dev Advocate @Microsoft, Founder and CEO of Vue Vixens"
+  },
+  {
+    "testimonialId": "700",
+    "name": "Burke Holland",
+    "img": "burke_holland",
+    "twitter": "burkeholland",
+    "order": 700,
+    "quoteHtml": "If you're looking to learn NativeScript, look no further than NativeScripting. These instructors are the best in the business. I know that because they helped me when I was first learning NativeScript. You can't do any better.",
+    "titleHtml": "DevRel at Microsoft"
+  },
+  {
+    "testimonialId": "750",
+    "name": "Sebastian Witalec",
+    "img": "sebastian_witalec",
+    "twitter": "sebawita",
+    "order": 750,
+    "quoteHtml": "NativeScripting is the best place for high quality NativeScript courses. Here you will find all learning materials you will ever need to get started with NativeScript. But also, there is a ton of advanced courses for a seasoned NativeScript dev.",
+    "titleHtml": "Sr. Developer Advocate at Progress"
+  },
+  {
+    "testimonialId": "760",
+    "name": "David Wison",
+    "img": "david_wilson",
+    "twitter": "DavidWilsonHome",
+    "order": 760,
+    "quoteHtml": "Alex, thank you so much for creating this course. The architecture chapter alone is worth the price of the course, and saved me tons of time in the long run - time I would have spent reworking the solution over and over. Can’t wait for the next chapters.",
+    "titleHtml": "Mobile Developer"
+  },
+  {
+    "testimonialId": "800",
+    "name": "Hernán Piña",
+    "img": "hernan_pina",
+    "twitter": "canelacho",
+    "order": 800,
+    "quoteHtml": "Excellent as an introduction, easy to understand, totally useful, if you are a Vue developer, you should take this material to start with the right foot.",
+    "titleHtml": "JavaScript Developer"
+  },
+  {
+    "testimonialId": "900",
+    "name": "Devlin Duldulao",
+    "img": "devlin_duldulao",
+    "twitter": "DevlinDuldulao",
+    "order": 900,
+    "quoteHtml": "If you want to understand and master NativeScript, Alex’s NativeScripting course videos are the way to go. He is truly the ‘Voice of NativeScript’ as he can break down complex ideas in such a way that would help you accelerate your goal in building beautiful mobile applications. Highly recommend him and definitely worth your time and money!",
+    "titleHtml": "Microsoft MVP"
+  },
+  {
+    "testimonialId": "1000",
+    "name": "Chase Putnam",
+    "img": "chase_putnam",
+    "twitter": "cdputnam",
+    "order": 1000,
+    "quoteHtml": "The introduction to NativeScript-Vue course is a fantastic foundation for learning how to both implement UIs using the Vue framework and also how to use the NativeScript toolsets, such as the CLI and the Sidekick app.",
+    "titleHtml": "Backend and Frontend Developer"
+  },
+  {
+    "testimonialId": "1100",
+    "name": "Eisson Alipio",
+    "img": "eisson_alipio",
+    "twitter": "eisson_alipio",
+    "order": 1100,
+    "quoteHtml": "NativeScripting is an amazing technology to build applications with very good performance for the both main mobile platforms. not only that, also you can use Angular with all it's advantages, I really recommend this course.",
+    "titleHtml": "Developer"
+  },
+  {
+    "testimonialId": "1200",
+    "name": "Ramazan Ayvaz",
+    "img": "ramazan_ayvaz",
+    "twitter": "ramazanayvaz",
+    "order": 1200,
+    "quoteHtml": "NativeScripting is a great platform for learning NativeScript! There are many high quality video courses. Anyone who wants to develop a Native mobile application with NativeScript must have NativeScripting account. Try free courses to convince yourself.",
+    "titleHtml": "Entrepreneur and Software Engineer"
+  },
+  {
+    "testimonialId": "1300",
+    "name": "Emmanuel Oduro",
+    "img": "emmanuel_oduro",
+    "twitter": "pedmindset",
+    "order": 1300,
+    "quoteHtml": "Being an introduction, it does a good job of clarifying some well know issues for beginners to the nativescript platform.",
+    "titleHtml": "Entrepreneur and Laravel Developer"
+  },
+  {
+    "testimonialId": "1400",
+    "name": "Thiago Glauco",
+    "img": "thiago_glauco",
+    "twitter": "thiago_glauco",
+    "order": 1400,
+    "quoteHtml": "Excelent free course. You will get the basics for build simple but usefull apps and to grow in understanding about NativeScript framework.",
+    "titleHtml": "JavaScript and Angular Developer"
+  },
+  {
+    "testimonialId": "1500",
+    "name": "Vahid Najafi",
+    "img": "vahid_najafi",
+    "twitter": "vahidvdn",
+    "order": 1500,
+    "quoteHtml": "NativeScripting provides a wide range of courses, from basic to advanced concepts and from the core framework to Angular and Vue. That's why there is no need for other resources. Highly recommended.",
+    "titleHtml": "Co-founder @ Sazmand, Backend and Frontend Developer"
+  },
+  {
+    "testimonialId": "1600",
+    "name": "Kelvin O. Omereshone",
+    "img": "kelvin_omereshone",
+    "twitter": "dominus_kelvin",
+    "order": 1600,
+    "quoteHtml": "This course is amazing. I was already fumbling in creating my first NativeScript iOS app but this course helped set me up straight. It's awesome. Really detailed and thorough. I could sense an high level of know-how from the author.",
+    "titleHtml": "Software developer 🥑. Modern Mobile Web Developer."
+  },
+  {
+    "testimonialId": "1700",
+    "name": "Ruggiero Marco Paolillo",
+    "img": "ruggiero_marco_paolillo",
+    "twitter": "",
+    "order": 1700,
+    "quoteHtml": "The Vue NativeScript introductory course is treated without unnecessary technical details. That allows you to be productive from day one. ",
+    "titleHtml": "IT Consultant"
+  },
+  {
+    "testimonialId": "1800",
+    "name": "Sushan Baskota",
+    "img": "sushan_baskota",
+    "twitter": "baskota_sushan",
+    "order": 1800,
+    "quoteHtml": "Course is short, very concise with very good narration and teaching by Alex. Great for starters on NativeScript. Has coverage on a range of topics needed for creating full production cross platform application. I had already started creating my startup idea.",
+    "titleHtml": "Full Stack Java and Angular Developer."
+  },
+  {
+    "testimonialId": "1900",
+    "name": "Helio Silva",
+    "img": "helio_silva",
+    "twitter": "muktharrox",
+    "order": 1900,
+    "quoteHtml": "One of the best courses I've ever done, simple, objective and practical. Congratulations to the NativeScript team.",
+    "titleHtml": "Software Developer"
+  },
+  {
+    "testimonialId": "2000",
+    "name": "Chris Custer",
+    "img": "chris_custer",
+    "twitter": "",
+    "order": 2000,
+    "quoteHtml": "Please, if you are new to NativeScript this course is perfect. No nonsense at all. It is straight to the point and the instructor is awesome. The production of the course is fantastic. It is not often I find a course is this well put together.",
+    "titleHtml": "Software Architect/Developer by day. RC Helicopter enthusiast by nights and weekend."
+  },
+  {
+    "testimonialId": "2200",
+    "name": "Paul Grimes",
+    "img": "paul_grimes",
+    "twitter": "paulgrimes_",
+    "order": 2200,
+    "quoteHtml": "Just finished NativeScript-Vue Introduction - great course, well done Alex, will be signing up to do more!",
+    "titleHtml": "CTO of OK200"
+  },
+  {
+    "testimonialId": "2240",
+    "name": "Ekpoto Liberty",
+    "img": "ekpoto_liberty",
+    "twitter": "am_delino",
+    "order": 2240,
+    "quoteHtml": "My experience with NativeScript coming from a web development background as a Javascript Developer is something words can't describe. No Java or Swift Skills required and I rock mobile application in a sec.",
+    "titleHtml": "Software Developer & Sound Engineer"
+  },
+  {
+    "testimonialId": "2250",
+    "name": "Brian Dillingham",
+    "img": "brian_dillingham",
+    "twitter": "dillinghammm",
+    "order": 2250,
+    "quoteHtml": "Well crafted step by step walkthroughs, very professional and worth the money.",
+    "titleHtml": "Laravel, Vue, React, Tailwind developer."
+  },
+  {
+    "testimonialId": "2300",
+    "name": "Mohammed Alarayshi",
+    "img": "mohammed_alarayshi",
+    "twitter": "MArayshi",
+    "order": 2300,
+    "quoteHtml": "Hi Alex. Thanks for your course NativeScript-Vue Introduction. It's really very helpful.",
+    "titleHtml": "Full-stack web and mobile developer"
+  },
+  {
+    "testimonialId": "2350",
+    "name": "Dima Liubko",
+    "img": "dima_liubko",
+    "twitter": "",
+    "order": 2350,
+    "quoteHtml": "Awesome course.",
+    "titleHtml": "Front-end Developer from Kiev, Ukraine."
+  },
+  {
+    "testimonialId": "6400",
+    "name": "Sohil Mansuri",
+    "img": "sohil_mansuri",
+    "twitter": "sohil0784",
+    "order": 6400,
+    "quoteHtml": "Super course",
+    "titleHtml": "Co-founder"
+  }
+]
