@@ -43,8 +43,7 @@ export const PostEntry = (
   let posterImage = null;
   if (post.image) {
     posterImage = (
-      <img />
-   
+      <Image alt={post.title + ' poster'} fluid={post.image.childImageSharp!.fluid} />
     );
   }
 
