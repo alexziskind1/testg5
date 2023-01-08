@@ -1,0 +1,176 @@
+[{
+    "id": "alex_ziskind",
+    "name": "Alex Ziskind",
+    "picture": "alex_ziskind",
+    "bio": "Alex lives in Washington, DC. He's a speaker, trainer, and a Telerik Developer Expert. He's been invloved in NativeScript projects since 2015 and has created courses for Pluralsight and LinkedIn.",
+    "biolong": "Alex Ziskind consistently strives to be on the cutting edge of technology, employs the latest web and mobile techniques and integrates them with the cloud. For the last 16 years, Alex has been developing software solutions for the enterprise as well as small startups. In the last 8 years, his Washington DC based company, Nuvious, has been involved in architecting and implementing cloud solutions on an international scale. Since 2015, Alex has been recognized as a Telerik Developer Expert due to his community involvement with NativeScript. You can connect with Alex on Twitter <a href=\"https://twitter.com/intent/user?screen_name=digitalix\">@digitalix</a>.",
+    "title": "Trainer and Founder",
+    "twitter": "digitalix",
+    "github": "alexziskind1",
+    "types": [
+      "course",
+      "post"
+    ]
+  },
+  {
+
+    "id": "nic_raboy",
+    "name": "Nic Raboy",
+    "picture": "nic_raboy",
+    "bio": "Nic Raboy is an advocate of modern web and mobile development technologies. He has experience in Java, JavaScript, Golang and a variety of frameworks such as Angular, NativeScript, and Apache Cordova. Nic writes about his development experiences related to making web and mobile development easier to understand.",
+    "biolong": "Nic Raboy is an advocate of modern web and mobile development technologies. He has experience in Java, JavaScript, Golang and a variety of frameworks such as Angular, NativeScript, and Apache Cordova. Nic writes about his development experiences related to making web and mobile development easier to understand.",
+    "title": "Developer, Author, and Speaker",
+    "twitter": "nraboy",
+    "github": "nraboy",
+    "types": [
+      "course",
+      "post"
+    ]
+  },
+  {
+    "id": "paul_halliday",
+    "name": "Paul Halliday",
+    "picture": "paul_halliday",
+    "bio": "Paul Halliday is a tech entrepreneur that specialises in cross platform mobile development. He graduated with a first class honours in BSc Computer Science from the University of Sunderland and has received numerous awards including the SIEM Prize, Sunderland University Professional Award, and more.",
+    "biolong": "Paul Halliday is a tech entrepreneur that specialises in cross platform mobile development. He graduated with a first class honours in BSc Computer Science from the University of Sunderland and has received numerous awards including the SIEM Prize, Sunderland University Professional Award, and more.",
+    "title": "NativeScript Trainer",
+    "twitter": "pwhsoftware",
+    "github": "PaulHalliday",
+    "types": [
+      "course",
+      "post"
+    ]
+  },
+  {
+    "id": "nathan_walker",
+    "name": "Nathan Walker",
+    "picture": "nathan_walker",
+    "bio": "Nathan Ross Walker has enjoyed the opportunity to work in the web/mobile app development arena for over 15 years. His varied background rooted in the world of design and the arts provides him a unique approach to problem solving. Spending several years working across multiple industries including entertainment, audio/video production, manufacturing, b2b marketing, communications, and technology helped establish a focused sensibility with client needs.",
+    "biolong": "Nathan Ross Walker has enjoyed the opportunity to work in the web/mobile app development arena for over 15 years. His varied background rooted in the world of design and the arts provides him a unique approach to problem solving. Spending several years working across multiple industries including entertainment, audio/video production, manufacturing, b2b marketing, communications, and technology helped establish a focused sensibility with client needs.",
+    "title": "NativeScript Trainer",
+    "twitter": "wwwalkerrun",
+    "github": "NathanWalker",
+    "types": [
+      "course"
+    ]
+  },
+  {
+    "id": "eddy_verbruggen",
+    "name": "Eddy Verbruggen",
+    "picture": "eddy_verbruggen",
+    "bio": "Eddy has worked with Progress for many years. First raising the bar for Cordova plugin quality through the Verified Plugins Marketplace, and now focusing on creating and maintaining NativeScript plugins.",
+    "biolong": "Eddy is a full-stack developer who loves a technical challenge. His mottos are “Don’t complain, fix it” and “Impossible problems simply require more effort”. He affectionately calls GitHub “Home” and is sometimes tricked into giving a presentation or creating a course. Favorite food: licorice and Stroopwafels (hey, I’m Dutch!).",
+    "title": "NativeScript Trainer",
+    "twitter": "eddyverbruggen",
+    "github": "eddyverbruggen",
+    "types": [
+      "course",
+      "post"
+    ]
+  },
+  {
+    "id": "sean_perkins",
+    "name": "Sean Perkins",
+    "picture": "sean_perkins",
+    "bio": "Sean Perkins is a technology enthusiast with a deep background in object-orientated programming languages. Experienced with full-stack development, design and digital marketing best-practices; he focuses on building stable, performant and scalable web, native and backend solutions for corporate enterprises.",
+    "biolong": "Sean Perkins is a technology enthusiast with a deep background in object-orientated programming languages. Experienced with full-stack development, design and digital marketing best-practices; he focuses on building stable, performant and scalable web, native and backend solutions for corporate enterprises.",
+    "title": "NativeScript Trainer",
+    "twitter": "seanfperkins",
+    "github": "sean-perkins",
+    "types": [
+      "course",
+      "post"
+    ]
+  },
+  {
+    "id": "tyler_blake",
+    "name": "Tyler Blake",
+    "picture": "tyler_blake",
+    "bio": "Tyler is a full stack developer who has been focusing on NativeScript over the past few years. He enjoys helping others out by teaching and mentoring, as well as speaking at conferences.",
+    "biolong": "Tyler is a full stack developer who has been focusing on NativeScript over the past few years. He enjoys helping others out by teaching and mentoring, as well as speaking at conferences.",
+    "title": "Full Stack Developer",
+    "twitter": "TylerBlakeLOU",
+    "github": "tylerablake",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "william_tjondrosuharto",
+    "name": "William Juan",
+    "picture": "william_tjondrosuharto",
+    "bio": "William is a Nativescript Ambassador based in Chicago, IL. He is a front end enthusiast with a love for all things web.",
+    "biolong": "William is a Nativescript Ambassador based in Chicago, IL. He is a front end enthusiast with a love for all things web.",
+    "title": "Nativescript Ambassador",
+    "twitter": "williamjuan27",
+    "github": "williamjuan027",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "sergey_melashych",
+    "name": "Sergey Melashych",
+    "picture": "sergey_melashych",
+    "bio": "Sergey is a full stack developer, speaker, and teacher who has been focusing on NativeScript over the past several years.",
+    "biolong": "Sergey Melashych aka Mell is a full stack developer from Ukraine experienced with development in JavaScript and Ruby. Being someone who used to build stable and performant web solutions, he has been focusing on NativeScript over the past several years. Sergey has experience teaching and mentoring in higher education and IT schools, as well as speaking at conferences. In addition, he has a Ph.D. degree in Fluid Mechanics.",
+    "title": "Developer, Speaker, and Teacher",
+    "twitter": "SergeyMell",
+    "github": "SergeyMell",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "tiago_alves",
+    "name": "Tiago Alves",
+    "picture": "tiago_alves",
+    "bio": "Tiago is a NativeScript-Vue contributer and enthusiastic developer. He's also a speaker and community leader.",
+    "biolong": "Over the last 15 years in the development business, Tiago did a bit of everything until finally landing in the soft arms of Vue.js. He is very excited with the possibility of using Vue with NativeScript and so he has been helping with the nativescript-vue community effort for some time.",
+    "title": "NativeScript Vue Guru",
+    "twitter": "tiagoreisalves",
+    "github": "tralves",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "shiva_prasad",
+    "name": "Shiva Prasad",
+    "picture": "shiva_prasad",
+    "bio": "Shiva lives in Bangalore, India. He's a speaker, trainer, NativeScript Developer Expert and a Partner at nStudio.io. He is an Angular Evangelist and a Machine Learning Enthusiast.",
+    "biolong": "Shiva is an Angular Evangelist, Machine Learning enthusiast and a polyglot developer who loves NativeScript. He works as a Lead Software Developer at Bfit Technologies and is a Partner at nStudio.io. He is also the first NativeScript Developer Expert from India. He is always up for learning new technologies, and sharing his knowledge with other developers. He is also a speed cuber and he loves to play games on his Nintendo Switch.",
+    "title": "NativeScript Expert",
+    "twitter": "multishiv19",
+    "github": "shiv19",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "dave_coffin",
+    "name": "Dave Coffin",
+    "picture": "dave_coffin",
+    "bio": "Dave is an accomplished NativeScript developer, a Progress Developer Expert for NativeScript, a full stack web developer, and a passion for creating intuitive and beautiful digital experiences.",
+    "biolong": "Dave is the full package with an eye for design and UI/UX, an accomplished NativeScript developer, a full stack web developer, and a passion for creating intuitive and beautiful digital experiences. His favorite quote, told to him by a mentor: 'This is software, we can do whatever we want!' He's also a prolific songwriter and musician.",
+    "title": "Nativescript Expert",
+    "twitter": "davecoffin",
+    "github": "davecoffin",
+    "types": [
+      "post"
+    ]
+  },
+  {
+    "id": "royi_namir",
+    "name": "Royi Namir",
+    "picture": "royi_namir",
+    "bio": "Royi lives in Israel. He's a Stackoverflow addict, full stack developer and internals enthusiast.",
+    "biolong": "Royi is a fullstack programmer from Israel, who has many years experience in programming Angular, C#, SQL, .Net, security, and building systems from scratch. He's also a NativeScript enthusiast. He loves new technologies, internals and to see clever code. He's been around for many years in Stackoverflow; contributing, asking, and helping. If he finds that something can be done much faster, or in a simpler way, you will know it.",
+    "title": "Fullstack Programmer",
+    "twitter": "Royi_Namir",
+    "github": "RoyiNamir",
+    "types": [
+      "post"
+    ]
+  }
+]
